@@ -1,0 +1,3 @@
+These code snippets are intended for use with OSX Automator. Use these to create services in Automator and link them to keyboard shortcuts in OSX so that you can load test data into your clipboard quickly and easily.
+
+Detailed instructions live here: <a href="http://trishkhoo.com/2012/09/using-ruby-and-automator-to-partially-automate-your-exploratory-testing-on-osx/">http://trishkhoo.com/2012/09/using-ruby-and-automator-to-partially-automate-your-exploratory-testing-on-osx/</a>
